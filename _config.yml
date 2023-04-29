@@ -1,7 +1,7 @@
-title: Your awesome title
-name: Your Name
-email: your-email@example.com
-description: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+title: Sion Lee's Blog
+name: 이시온 (Sion Lee)
+email: lso1030@handong.ac.kr
+description: Welcome! this is Sion Lee's porfolio site  
 
 baseurl: "/blog"
 url: ""
@@ -12,19 +12,19 @@ parallax_image_one: assets/images/startup3.jpg # These are the images used for t
 parallax_image_two: assets/images/startup3.jpg
 
 project_one: "First Project"
-project_one_description: Describe your project!
-project_one_url: https://github.com/jameshamann/jekyll-material-theme
+project_one_description: Mbti Test Program!
+project_one_url: https://github.com/SionLee21/mbti-test-program
 project_one_icon: location_on
 
-project_two: Second Project
-project_two_description: Describe your project!
-project_two_url: https://github.com/jameshamann/jekyll-material-theme
+project_two: "Sion's Baejoon"
+project_two_description: How I solved Problems on Baekjoon
+project_two_url: https://github.com/SionLee21/Sion_Baekjoon
 project_two_icon: photo_camera
 
 
-project_three: Third Project
-project_three_description: Describe your project!
-project_three_url: https://github.com/jameshamann/jekyll-material-theme
+project_three: "Second Project"
+project_three_description: CRUD Project In C Language!
+project_three_url: https://github.com/SionLee21/read-and-edit-data-program
 project_three_icon: hotel
 
 
@@ -146,7 +146,7 @@ colored: colored # Leave blank for black and white icons
 
 project_button: Github
 
-github: https://github.com/jameshamann/jekyll-material-theme
+github: https://github.com/SionLee21
 medium: https://medium.com
 
 baseurl: # if your site is located at /blog or /home, enter it here, otherwise leave it empty
