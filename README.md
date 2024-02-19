@@ -85,8 +85,6 @@ project_two: Second Project
 project_two_description: Describe your project!
 project_two_url: https://github.com/jameshamann/jekyll-material-theme
 project_two_icon: photo_camera
-
-
 project_three: Third Project
 project_three_description: Describe your project!
 project_three_url: https://github.com/jameshamann/jekyll-material-theme
